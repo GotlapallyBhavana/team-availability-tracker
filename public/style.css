@@ -1,0 +1,20 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+
+.user-card {
+    border: 1px solid gray;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+.available {
+    color: green;
+    font-weight: bold;
+}
+
+.not-available {
+    color: red;
+    font-weight: bold;
+}
